@@ -1,4 +1,4 @@
-app = "remix-blog"
+app = "remix-blog-zaar"
 kill_signal = "SIGINT"
 kill_timeout = 5
 processes = [ ]
